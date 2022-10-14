@@ -1,0 +1,84 @@
+
+
+#id{
+	text-align: center; 
+	color : violet;
+}
+
+
+
+
+#lancer{
+	width:150px;
+	margin:20px auto auto 25px;
+	border:3px solid white;
+	background-color:orange;
+	border-radius:10pt;
+	color:white;
+	height: 50px;
+	
+}
+
+
+#brasser{
+	width:150px;
+	margin:8px auto auto 25px;
+	border:3px solid white;
+	background-color:purple;
+	border-radius:10pt;
+	color:white;
+	height: 50px;
+	
+}
+
+
+
+
+.content{
+	margin:70px auto 0px auto;
+	height:300px;
+	width:900px;
+}
+
+
+
+
+.header{
+	margin:0px auto 1px auto;
+	height:50px;
+	width:850px;
+	background-color:#3772BC;
+		
+}
+
+
+
+.main{
+	margin:0px auto 0px auto;
+	height:345px;
+	width:850px;
+	background-color:palegreen;
+	
+}
+
+
+.left_content{
+	height:445px;
+	width:200px;
+	border-right:0px solid rgb(190,180,200);
+	float:left;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
